@@ -1,0 +1,25 @@
+# Ignore temporary files, build products, and log files.
+*.log
+*.temp
+*.ini
+*.out
+*.swp
+*.swo
+*.bak
+
+# Ignore binaries and intermediates
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+Saved/
+.vs/
+
+# Ignore project files
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.xcconfig
+*.idea/
+*.vscode/
